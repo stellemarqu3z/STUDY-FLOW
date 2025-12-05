@@ -26,7 +26,7 @@ Study Flow is an individualized platform designed specifically for students. In 
 4. Enter Deadline:
 5. Do you want to view your tasks (Yes/No): Yes
 6. Add New Task:
-# the proccess repeats
+#the proccess repeats
 
 # Quiz Generator
  1. enter subject:
@@ -35,7 +35,7 @@ Study Flow is an individualized platform designed specifically for students. In 
  5. generate quiz:
  6. do you want to create more quizzess (Yes/No): Yes
  7. enter subject
-# the proccess repeats
+#the proccess repeats
 
 # Grade Calculator
   1. Enter how many subjects: 
