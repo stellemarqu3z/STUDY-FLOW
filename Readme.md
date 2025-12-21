@@ -52,8 +52,8 @@ Study Flow is an individualized platform designed specifically for students. In 
   2. Enter subject: 
   3. When done creating note - Do you want to create a new note (Yes/No): Yes
   4. Enter subject:
-## If you choose No:
-    5. Tap (x) to save new note
+## If you choose No
+5. Tap (x) to save new note
 ## Contributers
 -Marquez, Wynstelle Z. (Tasks overview)
 -Duroy, Gaylhynne P. (Quiz generator)
