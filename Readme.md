@@ -1,5 +1,5 @@
 # STUDY-FLOW
-PW #2 MARQUEZ_DUROY_CHAVERO_MORGA_COSTO
+PW #2 MARQUEZ_DUROY_MORGA_COSTO
 ## Project descrption:
 Study Flow is an individualized platform designed specifically for students. In one app, you can take note of deadlines, grades, comply tasks, and create quizzess. All in one app!
 
