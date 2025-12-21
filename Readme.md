@@ -25,8 +25,8 @@ Study Flow is an individualized platform designed specifically for students. In 
 3. Enter Task: 
 4. Enter Deadline:
 5. Do you want to view your tasks (Yes/No): Yes
-6. Add New Task:
-## the proccess repeats
+## displays current tasks
+## the process repeats
 
 # Quiz Generator
  1. enter subject:
